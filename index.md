@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Welcome to my website !
 description: Quick presentation
 ---
